@@ -6,8 +6,7 @@
 -- -------------------------------------------------------------------
  2024-11-20 Cheatsheet for customer churn project
             - steps used in python for building model.
-			- Working example of boxstore database JOINs Queries. 
-			- 
+	    - Working example of boxstore database JOINs Queries.  
 */
 -- -------------------------------------------------------------------
 
