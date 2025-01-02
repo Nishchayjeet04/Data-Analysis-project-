@@ -1,8 +1,8 @@
 /*
-**NAME -    Nishchayjeet Singh 
+**NAME    - Nishchayjeet Singh 
 **PROJECT - Customer-Churn-Records 
-**File -    Customer Churn cheatsheet
-**History - 
+**File    - Customer Churn cheatsheet
+**History 
 -- -------------------------------------------------------------------
  2024-11-20 Cheatsheet for customer churn project
             - steps used in python for building model.
@@ -10,7 +10,7 @@
 */
 -- -------------------------------------------------------------------
 
--- Python steps 
+-- Steps for python.  
 
 
 -- Step 1 - importing the libraries and importing the data
